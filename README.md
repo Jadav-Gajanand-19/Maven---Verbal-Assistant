@@ -1,4 +1,4 @@
-![Maven Logo](maven poster.png)
+![Maven Logo](https://github.com/Jadav-Gajanand-19/Maven---Verbal-Assistant/blob/main/maven%20poster.png)
 
 # Maven - Your Verbal Assistant 🎙️
 
