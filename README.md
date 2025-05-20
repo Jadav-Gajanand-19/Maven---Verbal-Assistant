@@ -1,3 +1,5 @@
+![Maven Logo](maven poster.png)
+
 # Maven - Your Verbal Assistant 🎙️
 
 Maven is a simple command-line-based verbal assistant using Python. It can:
